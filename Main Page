@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-gb-oxendict">
+	<head>
+		<meta charset="UTF-8">
+		<title>
+		</title>
+		<style>
+		body{
+			background-color: darkgrey;
+			color: cornsilk;
+			text-align: center;
+		}
+		</style>
+	</head>
+	<body>
+		<h1>
+			Nitro Type Stuff
+		</h1>
+		<H4>
+			<ul>
+				<li>My favorite car</li>
+				<img src="https://static.wikia.nocookie.net/nitro-type/images/0/09/32rvascl3_large.png/revision/latest/scale-to-width-down/261?cb=20210414144107">
+				<li>My least favorite car</li>
+				<img src="https://static.wikia.nocookie.net/nitro-type/images/0/0e/Nitro_Type.png/revision/latest?cb=20160116165458">
+			</ul>
+			<ol>
+				<li>Jeepers rubricorn</li>
+				<img src="https://static.wikia.nocookie.net/nitro-type/images/8/8f/V3_3_large_1.png/revision/latest?cb=20200825081845">
+				<li>Misoux Lion</li>
+				<img src="https://static.wikia.nocookie.net/nitro-type/images/2/25/15_large_1_2.png/revision/latest?cb=20210127005943">
+				<li>Minie the cooper</li>
+				<img src="https://static.wikia.nocookie.net/nitro-type/images/6/6f/17_large_1_2.png/revision/latest?cb=20210127003334">
+				<li>My car I created</li>
+			</ol>
+			<ul>
+				<h2>Car Parts</h2>
+				<ul>
+					<h2>Spoilers</h2>
+					<li>Bastok Suprillia Spoiler</li>
+					<img src="RyanImage1.png" alt="Bastok Suprillia Spoiler">
+					<li>Bastok Suprillia Mirror</li>
+					<img src="Ryan Bastok Suprillia Mirror (Nitro Type).png" alt="Bastok Suprillia Mirror">
+				</ul>
+			</ul>
+		</H4>
+	</body>
+</html>
